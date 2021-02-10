@@ -2,8 +2,8 @@ const https = require('https')
 
 
 channel_id = "UCYc2dDPuAzbySHNj-CzLckQ"
-key = "AIzaSyAmfuCVpImQT3vUBZD5CRA6z-urx5XM8GY" // api key ko to sir haha palitan nyo nalang ng inyo if u want- jerome
-count = 30
+key = "add api key here" // dito ang api key sir
+count = 1
 subject = "math"
 part = "id"
 order = "relevance"
